@@ -1,0 +1,18 @@
+Jamal Khalid
+Male
+1995-03-01
+0179904821
+KL Bukit Jalil
+tp123456@mail.apu.edu.my
+0
+true
+========================================
+Sara
+Male
+1990-01-01
+0795571368
+KL MY
+tp123567@mail.apu.edu.my
+0
+true
+========================================

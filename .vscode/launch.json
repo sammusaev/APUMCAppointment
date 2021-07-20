@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AdminReportsManageJFrame",
+            "request": "launch",
+            "mainClass": "AdminReportsManageJFrame",
+            "projectName": "MozharAndSamirOOPJ_6da4c110"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdminAppointmentsManageJFrame",
+            "request": "launch",
+            "mainClass": "AdminAppointmentsManageJFrame",
+            "projectName": "MozharAndSamirOOPJ_6da4c110"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdminDoctorsManageJFrame",
+            "request": "launch",
+            "mainClass": "AdminDoctorsManageJFrame",
+            "projectName": "MozharAndSamirOOPJ_6da4c110"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch APUMedicalCenter",
+            "request": "launch",
+            "mainClass": "APUMedicalCenter",
+            "projectName": "MozharAndSamirOOPJ_6da4c110"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdminPatientsManageJFrame",
+            "request": "launch",
+            "mainClass": "AdminPatientsManageJFrame",
+            "projectName": "MozharAndSamirOOPJ_6da4c110"
+        }
+    ]
+}

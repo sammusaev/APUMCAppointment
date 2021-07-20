@@ -1,0 +1,27 @@
+AP237
+Salam@staffemail.apu.edu.my
+Must visit me again after 1 month
+tp123456@mail.apu.edu.my
+400
+2021-03-01
+09:00
+true
+========================================
+AP35
+Salam@staffemail.apu.edu.my
+Patient's health is good
+tp123567@mail.apu.edu.my
+550
+2021-01-01
+09:00
+true
+========================================
+AP38
+Salam@staffemail.apu.edu.my
+Patient is seriously ill
+tp987654@mail.apu.edu.my
+350
+2021-05-04
+14:00
+true
+========================================
